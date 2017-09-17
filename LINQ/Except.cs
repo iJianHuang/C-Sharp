@@ -1,3 +1,5 @@
+    // Based on and inspired by this MSDN article
+    // https://msdn.microsoft.com/en-us/library/bb336390(v=vs.110).aspx
     public static class ProductComparerDriver
     {
         public static void Go()
